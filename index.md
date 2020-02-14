@@ -1,6 +1,6 @@
 ## hello
 
-Welcome to my personal project site! Here you will find a bunch of links to both my personal projects, my business sites, and a few projects that I think are really awesome.
+Welcome to my personal project site! Here you will find a bunch of links to both my personal projects, my business sites, and a few projects that I think are really awesome. If you just want to check out my Resume, click [here](https://github.com/russellgill/hello/blob/master/Resume_RussellGill.pdf)!
 
 ### Personal Projects
 
