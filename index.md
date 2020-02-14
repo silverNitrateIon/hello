@@ -14,3 +14,6 @@ Curious about my freelance business backpack.technology? Here's a link to my sit
 ### Awesome Projects 
 
 Let's check out some projects that are downright cool in one way or another.
+
+- [Apache Arrow](https://github.com/apache/arrow) A langage agonstic in-memory data format
+- [T-Digest](https://github.com/tdunning/t-digest) Chunk-based data processing
